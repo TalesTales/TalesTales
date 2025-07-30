@@ -1,6 +1,6 @@
 # 👋 ¡Bienvenidx a mi Rincón de Aprendizaje! ✨
 
-¡Hola! Soy **Felipe**, *TalesTales*, y este es mi espacio de GitHub donde documento mi viaje de aprendizaje por mundo el mundo de la programación.
+¡Hola! Soy **Felipe**, *TalesTales*, y este es mi espacio de GitHub donde documento mi viaje de aprendizaje por el mundo de la programación.
 
 Mi objetivo principal aquí es **aprender, experimentar y mostrar mis avances**. 🌱
 
@@ -10,9 +10,9 @@ Mi objetivo principal aquí es **aprender, experimentar y mostrar mis avances**.
 
 Actualmente me ocupo en:
 
--   💻 **Pynanzas**: Estoy construyendo un sistema de análisis de inversiones en Python, con la ayuda de IAG. Dedico parte de mi tiempo a desarrollar y construir este sistema acorde a mis propias necesidades.
--   🎶 **SuperCollideer**: Estoy aprendiendo SuperCollider para complementar mi perfil musical y la producción que hago. Encuentra mi música en mi página web!
--   📚 **Manim**: Estoy profundizando en Manim como motor de renderizado para videos educativos.
+-   💻 **Pynanzas**: Estoy construyendo un sistema de análisis de inversiones en Python. Dedico parte de mi tiempo a desarrollar y construir este sistema acorde a mis propias necesidades.
+-   🎶 **SuperCollider**: Estoy aprendiendo SuperCollider para complementar mi perfil musical y la producción que hago. Encuentra mi música en mi página web!
+-   📚 **Manim**: Estoy rasgando la superficie de Manim como motor de renderizado para videos educativos.
 -   💡 **Obsidian**: Para publicar mi jardín digital en la web y llevar mis notas privadas siempre a la mano.
 
 ---
@@ -36,7 +36,7 @@ Aquí están algunas de las tecnologías y herramientas que estoy usando, aprend
 
 ---
 
-## 💡 Mis Proyectos (¡y algunos en progreso!)
+## 💡 Mis Proyectos
 
 Aquí encontrarás algunos de los repositorios que reflejan mi aprendizaje y experimentación. ¡No dudes en explorarlos!
 
@@ -51,6 +51,7 @@ Aquí encontrarás algunos de los repositorios que reflejan mi aprendizaje y exp
 Siempre hay algo nuevo que aprender. Algunos de mis objetivos incluyen:
 
 -   Explorar más a fondo **Python**.
+-   Dominar Supercollider.
 -   Aportar al sector cultura el poder de la **ciencia de datos**.
 -   Entender mejor los principios de **desarrollo de s/w**.
 
