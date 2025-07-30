@@ -41,7 +41,7 @@ Aquí están algunas de las tecnologías y herramientas que estoy usando, aprend
 Aquí encontrarás algunos de los repositorios que reflejan mi aprendizaje y experimentación. ¡No dudes en explorarlos!
 
 -   **Pynanzas**: Sistema de análisis financiero personal: [/Pynanzas](https://github.com/TalesTales/Pynanzas)
--   **SCPlayGround**: Lugar de aprendizaje de SuperCollider 3.13: [/SCPlayGround](https://github.com/TalesTales/SuperColliderPlayGround))
+-   **SCPlayGround**: Lugar de aprendizaje de SuperCollider 3.13: [/SCPlayGround](https://github.com/TalesTales/SuperColliderPlayGround)
 -   **Cpp**: Donde alguna vez aprendí lo básico de C++11 [/Cpp](https://github.com/TalesTales/PPPcpp)
 
 ---
@@ -60,7 +60,7 @@ Siempre hay algo nuevo que aprender. Algunos de mis objetivos incluyen:
 
 Si te interesa lo que ves, tienes alguna pregunta o simplemente quieres saludar, ¡no dudes en conectar conmigo!
 
--   **LinkedIn**: [[Tu Perfil de LinkedIn (si lo tienes y quieres compartirlo)](https://www.linkedin.com/in/pipebonilla/)
+-   **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/pipebonilla/)
 -   **Email**: info at pipebonilla dot com
 
 
