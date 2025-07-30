@@ -1,4 +1,4 @@
-# 👋 ¡Bienvenido/a a mi Rincón de Aprendizaje! ✨
+# 👋 ¡Bienvenidx a mi Rincón de Aprendizaje! ✨
 
 ¡Hola! Soy **Felipe**, *TalesTales*, y este es mi espacio de GitHub donde documento mi viaje de aprendizaje por mundo el mundo de la programación.
 
