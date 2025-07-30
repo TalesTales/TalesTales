@@ -40,12 +40,9 @@ Aquí están algunas de las tecnologías y herramientas que estoy usando, aprend
 
 Aquí encontrarás algunos de los repositorios que reflejan mi aprendizaje y experimentación. ¡No dudes en explorarlos!
 
--   **Pynanzas**: Sistema de análisis financiero personal
-    -   🔗 [Link al repositorio específico](https://github.com/TalesTales/Pynanzas)
--   **SCPlayGround**: Lugar de aprendizaje de SuperCollider 3.13
-    -   🔗 [Link al repositorio específico](https://github.com/TalesTales/SuperColliderPlayGround))
--   **Cpp**: Donde alguna vez aprendí lo básico de C++11
-    -   🔗 [Link al repositorio específico](https://github.com/TalesTales/PPPcpp)
+-   **Pynanzas**: Sistema de análisis financiero personal: [/Pynanzas](https://github.com/TalesTales/Pynanzas)
+-   **SCPlayGround**: Lugar de aprendizaje de SuperCollider 3.13: [/SCPlayGround](https://github.com/TalesTales/SuperColliderPlayGround))
+-   **Cpp**: Donde alguna vez aprendí lo básico de C++11 [/Cpp](https://github.com/TalesTales/PPPcpp)
 
 ---
 
